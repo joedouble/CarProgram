@@ -6,5 +6,9 @@ public class CarDemo {
 
     Car myCar = new Car();
 
+     myCar.setColor("Black");
+     myCar.setMake("Ford");
+     myCar.setModel("Escape");
+
     }
 }
